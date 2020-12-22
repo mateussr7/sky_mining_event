@@ -1,5 +1,5 @@
-*Sky Mining Event - Skyblock
-**Server: MysticCraft
+##Sky Mining Event - Skyblock
+Server: MysticCraft
 
 This plugin is a reward system that gives coins for Players while they mining in certain area.
 These coins serve as a form of payment in purchases made in the system market.
