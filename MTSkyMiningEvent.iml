@@ -10,18 +10,18 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../JARs/custom.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Arquivos/JARs/custom.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$MODULE_DIR$/../../JARs/custom.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Arquivos/JARs/custom.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../JARs/worldedit-bukkit-6.1.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Arquivos/JARs/worldedit-bukkit-6.1.9.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -30,7 +30,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../JARs/worldguard-bukkit-6.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Arquivos/JARs/worldguard-bukkit-6.2.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
