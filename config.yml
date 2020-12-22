@@ -7,3 +7,8 @@ market:
     material: DIAMOND_BLOCK
     name: 'teste'
     itens:
+      0:
+        material: DIAMOND_BLOCK
+        name: 'teste'
+        amount: 1
+        command:

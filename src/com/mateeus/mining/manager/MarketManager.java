@@ -32,4 +32,16 @@ public class MarketManager {
         return itens;
     }
 
+    public static Map<Integer, ItemStack> getItens(Integer slot){
+        Map<Integer, ItemStack> itens = new HashMap<>();
+        ConfigurationSection cs = fileConfig.getConfigurationSection("market." + slot + ".itens");
+        Set<String> keys = cs.getKeys(false);
+        for(String s : keys){
+            ConfigurationSection ci = cs.getConfigurationSection(s);
+        }
+
+
+        return itens;
+    }
+
 }
