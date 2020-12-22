@@ -1,0 +1,5 @@
+name: com.mateeus.mining.server.MTSkyMiningEvent
+version: 1.0
+author: MateeUs_
+api-version: '1.12.2'
+main: com.mateeus.mining.server.MTSkyMiningEvent

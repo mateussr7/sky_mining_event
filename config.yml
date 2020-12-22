@@ -1,0 +1,9 @@
+coin:
+  material: GOLDEN_NUGGET
+  name: '&7Moeda &e&lMysticCraft'
+  chance: 0.2;
+market:
+  0:
+    material: DIAMOND_BLOCK
+    name: 'teste'
+    itens:
